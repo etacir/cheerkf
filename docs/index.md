@@ -39,3 +39,5 @@ It replaces and extends the earlier [Knowledge Framework site](https://cheer-hub
 - **Which versions go together**: [Versions and compatibility](versions.md).
 - **Extending or fixing something**: [Contributing](contributing.md).
 - **Asking a question**: [Community](community.md).
+- **Getting access, publishing data, running on DesignSafe**: [Procedures](procedures/index.md).
+- **The thrusts' own technical pages**: [Reference](reference/index.md).

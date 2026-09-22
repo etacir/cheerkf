@@ -47,6 +47,8 @@ markdown_extensions:
   - pymdownx.superfences
   - pymdownx.tabbed:
       alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
 
 extra_css:
   - assets/extra.css
@@ -75,6 +77,28 @@ nav:
   - Versions & compatibility: versions.md
   - Getting started: getting-started.md
   - Examples: examples.md
+  - Procedures:
+      - Overview: procedures/index.md
+      - DesignSafe sign-up: procedures/designsafe-signup.md
+      - DesignSafe data upload: procedures/designsafe-data-upload.md
+      - DesignSafe HPC usage: procedures/designsafe-hpc.md
+      - GitHub procedures: procedures/github.md
+      - Research readiness levels: procedures/maturity-levels.md
+      - Top ten data tips: procedures/data-tips.md
+      - Metadata template: procedures/metadata-template.md
+      - Data publishing checklist: procedures/data-publishing-checklist.md
+      - Cataloging procedures: procedures/cataloging.md
+      - kf* management procedures: procedures/kf-management.md
+  - Reference:
+      - Overview: reference/index.md
+      - Hazards Thrust: reference/hazards-thrust.md
+      - Integration Thrust: reference/integration-thrust.md
+      - Shovels permit data: reference/shovels-permit-data.md
+      - FORTUNA: reference/fortuna.md
+      - Inventory data: reference/inventory-data.md
+      - Deep models: reference/deep-models.md
+      - Inventory-Loss Link: reference/inventory-loss-link.md
+      - NSI joint inventory processing: reference/nsi-inventory-processing.md
   - Contributing: contributing.md
   - Community: community.md
   - Governance: governance.md
