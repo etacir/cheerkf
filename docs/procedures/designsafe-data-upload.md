@@ -9,7 +9,7 @@
 
 ## 1. 	Background
 
-<img align="right" src="../assets/media05b-DataDepotScreenshot.png" width="350px" alt="A screenshot of the Data Depot interface">
+<img align="right" src="../../assets/media/05b-DataDepotScreenshot.png" width="350px" alt="A screenshot of the Data Depot interface">
 
 CHEER primarily uses the [Data Depot](https://www.designsafe-ci.org/data/browser/public/) on DesignSafe to store and publish data. While DesignSafe has a [comprehensive guide](https://www.designsafe-ci.org/user-guide/managingdata/) for managing and publishing data on the DesignSafe Data Depot, the following is intended to provide streamlined steps to upload data on the CHEER project in DesignSafe.
 
@@ -42,7 +42,7 @@ Before uploading any data to DesignSafe, you *must consult with your advisor* to
 Depending on the number and size of files/folders that you need to transfer to the CHEER project folder, there are primarily two different ways to upload the data: 1) normal data transfer method, or 2) large data transfer method. Figure 1 (next page) summarizes these steps, with detailed instructions below.
 
 `<p align="center">`
-  <img align="center" src="../assets/media05b-DesignSafe_DataUploadFlow.png" width="600px" alt="A flow chart with a summary of steps to upload data. These summarized steps align with the text.">
+  <img align="center" src="../../assets/media/05b-DesignSafe_DataUploadFlow.png" width="600px" alt="A flow chart with a summary of steps to upload data. These summarized steps align with the text.">
 </p>
 
 <ol>
@@ -55,7 +55,7 @@ Depending on the number and size of files/folders that you need to transfer to t
 <li>Review the CHEER Hub’s <a href="https://cheer-hub.github.io/cheerkf/#/06a-CHEER_DataTips">CHEER Hub Top Ten Data Tips</a> to ensure your data aligns with the CHEER recommendations</li>
 
 
-<img align="right" src="../assets/media05b-CHEER_DesignSafe_ChangingFilesInterface.png" width="450px" alt="A screenshot of the DesignSafe interface showing the buttons to use to adjust files">
+<img align="right" src="../../assets/media/05b-CHEER_DesignSafe_ChangingFilesInterface.png" width="450px" alt="A screenshot of the DesignSafe interface showing the buttons to use to adjust files">
 
 
 <li>If you are transferring files that are < 2GB in size, or < 25 files or < 3 folders, you can follow the <b>normal data transfer method</b>:</li>
@@ -201,7 +201,7 @@ There are largely two types of data that can be shared internally among CHEER te
 *Only data that is used as input/output for any of the modules in the STARR framework* (see image below) *should be saved in the STARR folder* in the CHEER project folder on DesignSafe. The STARR folder on the CHEER project folder ***MUST NOT*** have any intermediate files specific to a module. These intermediary files should be saved in a Thrust folder on the CHEER project folder on DesignSafe. For questions, ask the kf* Manager (see heading of this page for contact info).
 
 `<p align="center">`
-  <img align="center" src="../assets/media05b-CHEER_STARRframework.png" width="600px" alt="A diagram showing the modules of the STARR framework and their interconnections">
+  <img align="center" src="../../assets/media/05b-CHEER_STARRframework.png" width="600px" alt="A diagram showing the modules of the STARR framework and their interconnections">
 </p>
 
 Each Thurst team should decide how they want to save and share data specific to the development of their internal work. All thrust-specific data should be saved within their Thrust folder on the CHEER project folder on DesignSafe. For questions, ask the kf* Manager (see heading of this page for contact info).

@@ -2,7 +2,7 @@
 
 *Prepared by Caroline Williams; last updated April 11, 2024. Maintained by the kf\* manager; see [Governance](../governance.md).*
 
-A copy of this template as a plain Markdown file is [available for download](../assets/templates/CHEER_metadata_template.md).
+A copy of this template as a plain Markdown file is [available for download](../assets/templates/CHEER_metadata_template.txt).
 
 
 

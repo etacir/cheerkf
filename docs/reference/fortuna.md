@@ -24,7 +24,7 @@ The objective of **FORTUNA** (*Framework for Large-Scale Infrastructure Inventor
 The overall structure of the FORTUNA framework is illustrated below.
 
 <figure>
-  <img src="../assets/mediaFORTUNA.png" alt="FORTUNA Overview" width="600">
+  <img src="../../assets/media/FORTUNA.png" alt="FORTUNA Overview" width="600">
   <figcaption><b>Figure 1.</b> FORTUNA framework overview.</figcaption>
 </figure>
 
