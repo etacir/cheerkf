@@ -3,7 +3,7 @@
 ## Inside CHEER
 
 - New code goes in a CHEER-Hub repository started from the Python templates (bronze for scripts, silver for
-  packages, gold for released tools). Ask Mohammad Askari for access.
+  packages, gold for released tools). Ask Mohammad Askari (UCLA) for access.
 - New datasets go to DesignSafe PRJ-4392 (internal) or a published DesignSafe project (public), and get a row
   in the Knowledge Object Inventory before they are used in an analysis.
 - Document each object with the metadata template: purpose, inputs, outputs, version, contact, status.

@@ -7,7 +7,7 @@ Q&A, and Show and tell (extensions and results). Until then, contact cheer-hub@u
 
 ## Training
 
-- Recorded walkthrough of the Knowledge Framework and STARR repositories (Mohammad Askari, April 2025 annual meeting)
+- Recorded walkthrough of the Knowledge Framework and STARR repositories (Mohammad Askari (UCLA), April 2025 annual meeting)
   <span class="todo">link to be added</span>.
 - Planned: a YouTube channel under the project account, and a DesignSafe Learning Center webinar.
 

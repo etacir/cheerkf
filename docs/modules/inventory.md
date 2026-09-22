@@ -53,7 +53,7 @@ Fill gaps in the footprint inventory (stories, year built, roof shape and simila
 | **Inputs** | Pre-imputation inventory (I1) and its evidence sidecars |
 | **Outputs** | Imputed inventory (not yet delivered in the material read) |
 | **Point person (workflow slide)** | <span class="owner">Mohammad</span> |
-| **Who did the work (records)** | Mohammad Askari |
+| **Who did the work (records)** | Mohammad Askari (UCLA) |
 | **Code** | 'mice' imputation workflow being set up (Aug 2026); no repo recorded |
 | **Data** | None yet |
 | **Documentation** | None yet |
@@ -61,7 +61,7 @@ Fill gaps in the footprint inventory (stories, year built, roof shape and simila
 | **Status** | In progress since Aug 2026 |
 
 !!! warning "Open item <span class="todo">to be confirmed</span>"
-    Repo, documentation and version name; record the imputation model and the variables imputed. **Who:** Mohammad Askari
+    Repo, documentation and version name; record the imputation model and the variables imputed. **Who:** Mohammad Askari (UCLA)
 
 *Sources: Nolte email 18 Aug 2026; Davidson slide*
 

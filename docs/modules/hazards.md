@@ -32,7 +32,7 @@ Reduce the ensemble to a tractable set of scenarios whose weighted hazard reprod
 | **Inputs** | Candidate scenarios with wind and flood fields; reference hazard maps (ASCE 7 wind; FEMA flood maps proved a poor match and the flood threshold was adjusted in Nov 2025); matching on wind and coastal flooding only |
 | **Outputs** | Selected scenario IDs with P_h; calibration report |
 | **Point person (workflow slide)** | <span class="owner">Jingya</span> |
-| **Who did the work (records)** | Mohammad Askari wrote and runs the optimization code (weekly meetings with Rachel and Jingya from Oct 2025); method after Apivatanagul et al. 2011 |
+| **Who did the work (records)** | Mohammad Askari (UCLA) wrote and runs the optimization code (weekly meetings with Rachel and Jingya from Oct 2025); method after Apivatanagul et al. 2011 |
 | **Code** | github.com/CHEER-Hub/probabilistic-hazard-calibration (KO Inventory ID 'HP', status Development) |
 | **Data** | Results circulated by email and Drive; no catalogued dataset |
 | **Documentation** | Hurricane Hazard Optimization Report (Drive: Knowledge Framework/Connecting Pieces/Hurricane Probabilities, Jun 2025); Apivatanagul et al. 2011 for the method |
@@ -40,7 +40,7 @@ Reduce the ensemble to a tractable set of scenarios whose weighted hazard reprod
 | **Status** | In development; waiting on the new hazard scenario set (Feb 2026); flood-threshold fix Nov 2025 |
 
 !!! warning "Open item <span class="todo">to be confirmed</span>"
-    Name a version; log the reference maps and settings used; state which loss datasets used which P_h; confirm the point person (slide says Jingya, the code is Mohammad's). **Who:** Mohammad Askari; Jingya Wang
+    Name a version; log the reference maps and settings used; state which loss datasets used which P_h; confirm the point person (slide says Jingya, the code is Mohammad's). **Who:** Mohammad Askari (UCLA); Jingya Wang
 
 *Sources: Davidson slide; KO Inventory 'Hzrds Prob Models' and 'Regional Loss Data' tabs; kf* notes 18 Nov 2025 and 10 Feb 2026; emails 'Hurricane Probabilities' Oct 2025*
 

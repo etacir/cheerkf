@@ -1,6 +1,6 @@
 # GitHub procedures
 
-*Prepared by Mohammad Askari. Maintained by the kf\* manager; see [Governance](../governance.md).*
+*Prepared by Mohammad Askari (UCLA). Maintained by the kf\* manager; see [Governance](../governance.md).*
 
 
 

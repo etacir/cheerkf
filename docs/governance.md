@@ -12,11 +12,11 @@ led by the Disaster Research Center, University of Delaware (PI: Rachel Davidson
 |---|---|
 | Knowledge Framework and this site | Ertugrul Taciroglu (UCLA), Chris Lenhardt (NCAR) |
 | Hazard scenarios | Brian Blanton (RENCI), Chris Szpilka (OU) |
-| Scenario probabilities | Mohammad Askari, Jingya Wang, Rachel Davidson |
+| Scenario probabilities | Mohammad Askari (UCLA), Jingya Wang, Rachel Davidson |
 | Footprint inventory | Christoph Nolte (BU) |
-| Inventory imputation and image-derived variables | Mohammad Askari; image variables  <span class="todo">to be confirmed</span> |
+| Inventory imputation and image-derived variables | Mohammad Askari (UCLA); image variables  <span class="todo">to be confirmed</span> |
 | Households | Shangjia Dong (UD) |
-| CHEERsafe | Mohammad Askari |
+| CHEERsafe | Mohammad Askari (UCLA) |
 | Manufactured and multifamily housing damage | Christopher Alegbeleye |
 | Losses, timelines, STARR | Jingya Wang, Linda Nozick (Cornell) |
 | Economy model | Ian Sue Wing (BU) |
