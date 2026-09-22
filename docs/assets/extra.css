@@ -1,0 +1,7 @@
+.todo { color: #9c4a1a; font-style: italic; font-size: 0.85em; }
+.owner { color: #1f4e9c; }
+table { font-size: 0.9em; }
+
+/* wordmark logo in the header */
+.md-header__button.md-logo img, .md-header__button.md-logo svg { height: 1.7rem; width: auto; }
+.md-header__button.md-logo { padding-top: .3rem; padding-bottom: .3rem; }

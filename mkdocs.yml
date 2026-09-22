@@ -1,0 +1,80 @@
+site_name: Knowledge Framework
+site_description: User and developer guide to the CHEER STARR framework and the Knowledge Framework behind it
+site_url: https://cheer-hub.github.io/cheerkf/
+repo_url: https://github.com/etacir/cheerkf   # staging; becomes CHEER-Hub/cheerkf on transfer
+repo_name: etacir/cheerkf
+edit_uri: edit/main/docs/
+copyright: CHEER Hub, an NSF Coastlines and People (CoPe) project. Draft site, not yet released.
+
+theme:
+  name: material
+  language: en
+  logo: assets/brand/cheer-kf-logo-compact.svg
+  favicon: assets/brand/favicon-64.png
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - navigation.footer
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - content.action.edit
+    - toc.follow
+  palette:
+    - scheme: default
+      primary: white
+      accent: light blue
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: black
+      accent: light blue
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - tables
+  - footnotes
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+
+extra_css:
+  - assets/extra.css
+
+plugins:
+  - search
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/CHEER-Hub
+    - icon: fontawesome/solid/globe
+      link: https://www.drc.udel.edu/cheer/
+
+nav:
+  - Home: index.md
+  - Workflow:
+      - Overview: workflow.md
+      - H. Hazard scenarios: modules/hazards.md
+      - I. Household-housing inventory: modules/inventory.md
+      - D. Damage model (CHEERsafe): modules/damage.md
+      - L. Losses: modules/losses.md
+      - T. Time series of losses: modules/timelines.md
+      - STARR decision models: modules/starr.md
+  - Catalog: catalog.md
+  - Versions & compatibility: versions.md
+  - Getting started: getting-started.md
+  - Examples: examples.md
+  - Contributing: contributing.md
+  - Community: community.md
+  - Governance: governance.md
